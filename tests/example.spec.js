@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-checking new branch
 import { test, expect } from '@playwright/test';
 
 test('has title', async ({ page }) => {
